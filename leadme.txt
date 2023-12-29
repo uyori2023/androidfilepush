@@ -1,0 +1,7 @@
+Thank you for downloading this file!
+This python file was created to make it easy to use adb's push functionality.
+This python file is just a prototype of adb's push function.
+The person who made it is Japanese, and he used a lot of deepl translations.
+I will continue to develop and add new features, and I will keep the history of my additions in a separate text file.
+I will keep the history of my additions in a separate text file.
+If you have any advice, please contact @uyori_pc on discord.
